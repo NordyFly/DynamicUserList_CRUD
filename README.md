@@ -38,5 +38,10 @@ Ce projet est une application de gestion des utilisateurs qui vous permet de fil
 - Base de données: `php-app`
 
 ## Auteur
+- Noureddine Benomar
 
-Noureddine Benomar
+# 💫 About Me:
+🌱 Développeur full stack<br>⚡ Engagé à écrire du code de qualité!
+
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/benomar/) 
