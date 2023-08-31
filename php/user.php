@@ -48,7 +48,7 @@
             echo "<input type='text' name='email' placeholder='Email' value='".$user["email"]."' class='p-2 border rounded-md mb-2'>";
             echo "<input type='submit' value='Mettre à jour' class='bg-blue-500 text-white py-2 px-4 rounded-md hover:bg-blue-600'>";
             echo "</form>";
-            echo "<a href='04exoFilterUser.php' class='bg-gray-300 text-gray-700 py-2 px-4 rounded-md hover:bg-gray-400 mt-2 inline-block'>Retour</a>";
+            echo "<a href='filterUser.php' class='bg-gray-300 text-gray-700 py-2 px-4 rounded-md hover:bg-gray-400 mt-2 inline-block'>Retour</a>";
             echo "</div>";
 
         } catch (PDOException $e) {
