@@ -7,7 +7,6 @@ Ce projet est une application de gestion des utilisateurs qui vous permet de fil
 - Affichage de la liste des utilisateurs avec filtrage par prénom, nom de famille et email.
 - Possibilité de visualiser les détails d'un utilisateur.
 - Modification des informations d'un utilisateur.
-- Suppression d'un utilisateur.
 
 ## Prérequis
 
@@ -23,7 +22,6 @@ Ce projet est une application de gestion des utilisateurs qui vous permet de fil
 5. Utilisez le formulaire de filtrage pour affiner la liste des utilisateurs.
 6. Cliquez sur le lien "Voir la fiche" pour afficher les détails d'un utilisateur.
 7. Cliquez sur le lien "Modifier" pour mettre à jour les informations d'un utilisateur.
-8. Cliquez sur le lien "Supprimer" pour supprimer un utilisateur.
 
 ## Structure des Fichiers
 
