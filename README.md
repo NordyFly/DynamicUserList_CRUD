@@ -7,6 +7,8 @@ Ce projet est une application de gestion des utilisateurs qui vous permet de fil
 - Affichage de la liste des utilisateurs avec filtrage par prénom, nom de famille et email.
 - Possibilité de visualiser les détails d'un utilisateur.
 - Modification des informations d'un utilisateur.
+- Possibilité d'ajouter un nouveau utilisateur.
+- Possibilité de supprimer un utilisateur.
 
 ## Prérequis
 
